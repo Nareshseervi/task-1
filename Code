@@ -1,0 +1,13 @@
+Docker task1
+
+From python 2
+Run python2 pip install scipy sklearn
+
+Workdir home/root/dekstop
+
+Run docker task1 .
+
+CMD[test.py]
+
+
+
